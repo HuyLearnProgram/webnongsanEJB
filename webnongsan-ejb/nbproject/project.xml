@@ -6,9 +6,9 @@
             <name>webnongsan-ejb</name>
             <minimum-ant-version>1.6.5</minimum-ant-version>
             <explicit-platform explicit-source-supported="true"/>
-            <included-library dirs="200">file.reference.mysql-connector-j-9.2.0.jar</included-library>
-            <included-library dirs="200">file.reference.hibernate-commons-annotations-6.0.6.Final.jar</included-library>
-            <included-library dirs="200">file.reference.hibernate-core-5.3.20.Final.jar</included-library>
+            <included-library dirs="200">file.reference.hibernate-commons-annotations-6.0.6.Final.jar-1</included-library>
+            <included-library dirs="200">file.reference.hibernate-core-5.3.20.Final.jar-1</included-library>
+            <included-library dirs="200">file.reference.mysql-connector-j-9.2.0.jar-1</included-library>
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
